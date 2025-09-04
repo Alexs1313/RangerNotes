@@ -83,7 +83,7 @@ const Rangerwlcmscrn = () => {
               textAlign: 'center',
             }}
           >
-            {rangernoteswlcmdta[rangerCurrentNmbr].rangernotestitle}
+            {rangernoteswlcmdta[rangerCurrentNmbr].rangernotesdesc}
           </Text>
           <Rangerbtn
             rangerPropsLabel={'Next'}
